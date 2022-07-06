@@ -8,7 +8,7 @@ Automated way to generate certs via docker container.
 
 git clone https://github.com/andygodish/certbot.git
 
-Navidate to the new repo and follow the steps below.
+Navigate to the new repo and follow the steps below.
 
 ### Domain Validation
 
