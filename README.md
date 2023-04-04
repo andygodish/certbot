@@ -4,9 +4,11 @@
 
 docker, git
 
-Automated way to generate certs via docker container. 
+Automated way to generate certs via docker container.
 
+```
 git clone https://github.com/andygodish/certbot.git
+```
 
 Navigate to the new repo and follow the steps below.
 
